@@ -1,4 +1,4 @@
-# 💻Middle FullStack Web Developer & CyberSecurity Specialist🛡️
+# 💻FullStack Web Developer & CyberSecurity Specialist🛡️
 
 
 <img src="https://github.com/codeurient/codeurient/blob/main/jjj.gif" width="100%" />
