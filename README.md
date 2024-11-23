@@ -38,7 +38,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 <h2 align="center">Connect with me:</h2>
 
-<div style="display: flex; >
+<div >
   <a href="https://linkedin.com/in/codeurient">
     <img src="https://camo.githubusercontent.com/5b76ce6402130921ab0c2b2938c7a386fb9bca65d62859c6e230a7a9cc7a65fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030616365652e7376673f636f6c6f723d343035444536267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" style="width: 40px; height: 40px;">
   </a>
