@@ -1,4 +1,4 @@
-# Middle Full Stack Developer & Cyber Security Specialist 
+# 💻 Middle Full Stack Developer & Cyber Security Specialist 🛡️
 
 
 <img src="https://github.com/codeurient/codeurient/blob/main/jjj.gif" width="100%" />
