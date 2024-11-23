@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cyber Security Project
 
-<!--
-**codeurient/codeurient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Matrix Code Falling]([https://media.giphy.com/media/YoYemUawtLhX2/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l6M2tqdjNuOXZpeW96YmI5cWJwamM0YWg2eWw2eW5yc25jNTlxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.webp))
 
-Here are some ideas to get you started:
+## Overview
+This is a project focused on enhancing cyber security by developing various tools and techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Real-time network monitoring
+- Intrusion detection systems
+- Secure communication protocols
+
+## Contributing
+Feel free to fork and contribute to this repository!
+
+## License
+MIT License
