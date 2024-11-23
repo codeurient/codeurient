@@ -1,18 +1,18 @@
 # Cyber Security Project
 
-## GIF Demonstration
+
 <img src="https://github.com/codeurient/codeurient/blob/main/jjj.gif" width="100%" />
 
-## Overview
-This is a project focused on enhancing cyber security by developing various tools and techniques.
 
-## Features
-- Real-time network monitoring
-- Intrusion detection systems
-- Secure communication protocols
 
-## Contributing
-Feel free to fork and contribute to this repository!
 
-## License
-MIT License
+## Support
+<a href="buymeacoffee.com/codeurienth" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+
+
+
+
+
+
