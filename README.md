@@ -1,10 +1,7 @@
 # Cyber Security Project
 
-## Video Demonstration
-Watch a demonstration of the Cyber Security Project here:  
-[Video Demonstration (MP4)](https://github.com/codeurient/codeurient/raw/main/path/to/ezgif-3-d5a4b94d21.mp4)
-
-Alternatively, you can view the video hosted on YouTube or Vimeo if you choose to upload it there.
+## GIF Demonstration
+![Cyber Security Project Demonstration](https://github.com/codeurient/codeurient/blob/main/ezgif-3-d5a4b94d21.gif)
 
 ## Overview
 This is a project focused on enhancing cyber security by developing various tools and techniques.
