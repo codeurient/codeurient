@@ -1,7 +1,7 @@
 # Cyber Security Project
 
 ## GIF Demonstration
-![Cyber Security Project Demonstration](https://github.com/codeurient/codeurient/blob/main/ezgif-3-d5a4b94d21.gif)
+<img src="https://github.com/codeurient/codeurient/blob/main/ezgif-3-d5a4b94d21.gif" width="100%" />
 
 ## Overview
 This is a project focused on enhancing cyber security by developing various tools and techniques.
