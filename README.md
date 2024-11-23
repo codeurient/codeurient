@@ -10,20 +10,20 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 ## My Main Skills
 
 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/coding.png" alt="System Administration" style="width: 25px; height: 25px; object-fit: cover;">System Administration</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/css-3.png" alt="CSS3" style="width: 25px; height: 25px; object-fit: cover;">CSS3</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/html-5.png" alt="HTML5" style="width: 25px; height: 25px; object-fit: cover;">HTML5</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/cyber-security.png" alt="Cyber Security" style="width: 25px; height: 25px; object-fit: cover;">Cyber Security</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/database.png" alt="SQL" style="width: 25px; height: 25px; object-fit: cover;">SQL</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/document.png" alt="Vue JS" style="width: 25px; height: 25px; object-fit: cover;">VUE JS</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/js.png" alt="JavaScript" style="width: 25px; height: 25px; object-fit: cover;">JavaScript</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/office.png" alt="Microsoft Office" style="width: 25px; height: 25px; object-fit: cover;">Microsoft Office</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/php.png" alt="PHP" style="width: 25px; height: 25px; object-fit: cover;">PHP</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/physics.png" alt="React JS" style="width: 25px; height: 25px; object-fit: cover;">React JS</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/python.png" alt="Python" style="width: 25px; height: 25px; object-fit: cover;">Python</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/bootstrap.png" alt="Bootstrap5" style="width: 25px; height: 25px; object-fit: cover;">Bootstrap5</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/Tailwind CSS.png" alt="Tailwind CSS" style="width: 25px; height: 25px; object-fit: cover;">Tailwind</a> 
-  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/typescript.png" alt="TypeScript" style="width: 25px; height: 25px; object-fit: cover;">TypeScript</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/a.png" alt="System Administration" >System Administration</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/b.png" alt="CSS3" >CSS3</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/c.png" alt="HTML5"  >HTML5</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/d.png" alt="Cyber Security">Cyber Security</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/e.png" alt="SQL" >SQL</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/f.png" alt="Vue JS" >VUE JS</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/o.png" alt="JavaScript"  >JavaScript</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/h.png" alt="Microsoft Office" >Microsoft Office</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/i.png" alt="PHP" >PHP</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/j.png" alt="React JS" >React JS</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/k.png" alt="Python" >Python</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/l.png" alt="Bootstrap5" >Bootstrap5</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/m.png" alt="Tailwind CSS" >Tailwind</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/n.png" alt="TypeScript" >TypeScript</a> 
 
 
 
