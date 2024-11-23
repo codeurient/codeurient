@@ -9,50 +9,21 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 ## My Main Skills
 
-<div>
-  <p style="background-color: darkcyan; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/coding.png" alt="System Administration" style="width: 25px; height: 25px; object-fit: cover;"></a> System Administration
-  </p>
-  <p style="background-color: darksalmon; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/css-3.png" alt="CSS3" style="width: 25px; height: 25px; object-fit: cover;"></a> CSS3
-  </p>
-  <p style="background-color: black; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/html-5.png" alt="HTML5" style="width: 25px; height: 25px; object-fit: cover;"></a> HTML5
-  </p>
-  <p style="background-color: dodgerblue; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/cyber-security.png" alt="Cyber Security" style="width: 25px; height: 25px; object-fit: cover;"></a> Cyber Security
-  </p>
-  <p style="background-color: chocolate; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/database.png" alt="SQL" style="width: 25px; height: 25px; object-fit: cover;"></a> SQL
-  </p>
-  <p style="background-color: royalblue; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/document.png" alt="Vue JS" style="width: 25px; height: 25px; object-fit: cover;"></a> VUE JS
-  </p>
-  <p style="background-color: brown; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/js.png" alt="JavaScript" style="width: 25px; height: 25px; object-fit: cover;"></a> JavaScript
-  </p>
-  <p style="background-color: navajowhite; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/office.png" alt="Microsoft Office" style="width: 25px; height: 25px; object-fit: cover;"></a> Microsoft Office
-  </p>
-  <p style="background-color: sandybrown; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/php.png" alt="PHP" style="width: 25px; height: 25px; object-fit: cover;"></a> PHP
-  </p>
-  <p style="background-color: powderblue; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/physics.png" alt="React JS" style="width: 25px; height: 25px; object-fit: cover;"></a> React JS
-  </p>
-  <p style="background-color: orange; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/python.png" alt="Python" style="width: 25px; height: 25px; object-fit: cover;"></a> Python
-  </p>
-  <p style="background-color: tomato; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/bootstrap.png" alt="Bootstrap5" style="width: 25px; height: 25px; object-fit: cover;"></a> Bootstrap5
-  </p>
-  <p style="background-color: rgb(162, 214, 162); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/Tailwind CSS.png" alt="Tailwind CSS" style="width: 25px; height: 25px; object-fit: cover;"></a> Tailwind
-  </p>
-  <p style="background-color: cornflowerblue; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px;">
-    <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/typescript.png" alt="TypeScript" style="width: 25px; height: 25px; object-fit: cover;"></a> TypeScript
-  </p>
-</div>
+
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/coding.png" alt="System Administration" style="width: 25px; height: 25px; object-fit: cover;">System Administration</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/css-3.png" alt="CSS3" style="width: 25px; height: 25px; object-fit: cover;">CSS3</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/html-5.png" alt="HTML5" style="width: 25px; height: 25px; object-fit: cover;">HTML5</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/cyber-security.png" alt="Cyber Security" style="width: 25px; height: 25px; object-fit: cover;">Cyber Security</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/database.png" alt="SQL" style="width: 25px; height: 25px; object-fit: cover;">SQL</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/document.png" alt="Vue JS" style="width: 25px; height: 25px; object-fit: cover;">VUE JS</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/js.png" alt="JavaScript" style="width: 25px; height: 25px; object-fit: cover;">JavaScript</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/office.png" alt="Microsoft Office" style="width: 25px; height: 25px; object-fit: cover;">Microsoft Office</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/php.png" alt="PHP" style="width: 25px; height: 25px; object-fit: cover;">PHP</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/physics.png" alt="React JS" style="width: 25px; height: 25px; object-fit: cover;">React JS</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/python.png" alt="Python" style="width: 25px; height: 25px; object-fit: cover;">Python</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/bootstrap.png" alt="Bootstrap5" style="width: 25px; height: 25px; object-fit: cover;">Bootstrap5</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/Tailwind CSS.png" alt="Tailwind CSS" style="width: 25px; height: 25px; object-fit: cover;">Tailwind</a> 
+  <a href="https://www.instagram.com/codeurient/"><img src="https://github.com/codeurient/codeurient/blob/main/typescript.png" alt="TypeScript" style="width: 25px; height: 25px; object-fit: cover;">TypeScript</a> 
 
 
 
