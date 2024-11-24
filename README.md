@@ -32,6 +32,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 <p>Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)</p>
 <a href="buymeacoffee.com/codeurienth" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<a href="https://ko-fi.com/codeurient" target="_blank"><img src="https://camo.githubusercontent.com/64294debfa11ea355ac5715acc38ee3a59e33034d1ed6645cdcb726286c2cf0b/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669312e706e673f763d33" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
