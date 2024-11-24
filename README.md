@@ -3,11 +3,11 @@
 
 <img src="https://github.com/codeurient/codeurient/blob/main/jjj.gif" width="100%" />
 
-<h1>About</h1>
+<h1> ⚒️ About ⚒️ </h1>
 Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Specialist with experience in building secure web applications. Skilled in front-end technologies like JavaScript, React, and PHP, and back-end frameworks such as Python, I focus on creating efficient, user-friendly solutions while ensuring robust security practices to protect digital environments.
 
 
-<h2>My Main Skills</h2>
+<h2> ⚒️ My Main Skills ⚒️ </h2>
 
   <a href="https://www.instagram.com/codeurient/"><img width="144" src="https://github.com/codeurient/codeurient/blob/main/d.png" alt="Cyber Security"></a> 
   <a href="https://www.instagram.com/codeurient/"><img width="197" src="https://github.com/codeurient/codeurient/blob/main/a.png" alt="System Administration" ></a> 
