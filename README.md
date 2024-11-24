@@ -40,7 +40,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 
 
-
+<hr>
 <h2 align="center">Connect with me:</h2>
 
 
