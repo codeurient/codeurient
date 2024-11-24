@@ -27,21 +27,24 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 <h2> ⚒️ My Additional Skills ⚒️ </h2>
 
-<img src="https://img.shields.io/badge/django-red?style=flat-square&color=56135a" alt="">
-<img src="https://img.shields.io/badge/numpy-red?style=flat-square&color=49aa72" alt="">
-<img src="https://img.shields.io/badge/pandas-red?style=flat-square&color=5cd8df" alt="">
-<img src="https://img.shields.io/badge/seaborn-red?style=flat-square&color=ef5411" alt="">
-<img src="https://img.shields.io/badge/powerbi-red?style=flat-square&color=25f473" alt="">
-<img src="https://img.shields.io/badge/matplotlib-red?style=flat-square&color=b87694" alt="">
-<img src="https://img.shields.io/badge/nextjs-red?style=flat-square&color=934c47" alt="">
-<img src="https://img.shields.io/badge/jquery-red?style=flat-square&color=5efd51" alt="">
-<img src="https://img.shields.io/badge/laravel-red?style=flat-square&color=5cd8df" alt="">
-<img src="https://img.shields.io/badge/laravel-nova-red?style=flat-square&color=49d980" alt="">
-<img src="https://img.shields.io/badge/mysql-red?style=flat-square&color=66429e" alt="">
-<img src="https://img.shields.io/badge/postgresql-red?style=flat-square&color=d2e80f" alt="">
-<img src="https://img.shields.io/badge/joomla-red?style=flat-square&color=781138" alt="">
-<img src="https://img.shields.io/badge/api-red?style=flat-square&color=9b441e" alt="">
-<img src="https://img.shields.io/badge/linux-red?style=flat-square&color=a84a51" alt="">
+<p align="center">
+    <img src="https://img.shields.io/badge/django-red?style=flat-square&color=56135a" alt="django">
+    <img src="https://img.shields.io/badge/numpy-red?style=flat-square&color=49aa72" alt="numpy">
+    <img src="https://img.shields.io/badge/pandas-red?style=flat-square&color=5cd8df" alt="pandas">
+    <img src="https://img.shields.io/badge/seaborn-red?style=flat-square&color=ef5411" alt="seaborn">
+    <img src="https://img.shields.io/badge/powerbi-red?style=flat-square&color=0f3a0f" alt="powerbi">
+    <img src="https://img.shields.io/badge/matplotlib-red?style=flat-square&color=b87694" alt="matplotlib">
+    <img src="https://img.shields.io/badge/nextjs-red?style=flat-square&color=934c47" alt="nextjs">
+    <img src="https://img.shields.io/badge/jquery-red?style=flat-square&color=0336a0" alt="jquery">
+    <img src="https://img.shields.io/badge/laravel-red?style=flat-square&color=5cd8df" alt="laravel">
+    <img src="https://img.shields.io/badge/laravel--nova-red?style=flat-square&color=49d980" alt="laravel nova">
+    <img src="https://img.shields.io/badge/mysql-red?style=flat-square&color=66429e" alt="mysql">
+    <img src="https://img.shields.io/badge/postgresql-red?style=flat-square&color=d2e80f" alt="postgresql">
+    <img src="https://img.shields.io/badge/joomla-red?style=flat-square&color=781138" alt="joomla">
+    <img src="https://img.shields.io/badge/api-red?style=flat-square&color=9b441e" alt="api">
+    <img src="https://img.shields.io/badge/linux-red?style=flat-square&color=a84a51" alt="linux">
+</p>
+
 
 
 ---
