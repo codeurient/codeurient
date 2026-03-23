@@ -124,45 +124,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>jQuery
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="48" height="48" alt="MongoDB" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="48" height="48" alt="Nodejs" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Nodejs
-      </td>
-      
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec590ed3b18e79686dd269ba4b3f7788e485e07a08347b85620f8d5ef2e371a1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"><img src="https://camo.githubusercontent.com/ec590ed3b18e79686dd269ba4b3f7788e485e07a08347b85620f8d5ef2e371a1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="48" height="48" alt="PHP" data-canonical-src="https://skillicons.dev/icons?i=php" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"><img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="48" height="48" alt="VsCode" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6d5ccf0f9488cdeec915fcb6e98e8678afc712970c50994f986b63788bfe72c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373"><img src="https://camo.githubusercontent.com/b6d5ccf0f9488cdeec915fcb6e98e8678afc712970c50994f986b63788bfe72c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" width="48" height="48" alt="WordPress" data-canonical-src="https://skillicons.dev/icons?i=wordpress" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e5af4a62217d9e22da2ff2d94c0aeacfee22c51c693c26a2d960524c2e1d4f0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/7e5af4a62217d9e22da2ff2d94c0aeacfee22c51c693c26a2d960524c2e1d4f0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="48" height="48" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8dbc5c279a2a9971bee85c1ffd74978b339850416128fee7bbced3db7c1b51f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373"><img src="https://camo.githubusercontent.com/8dbc5c279a2a9971bee85c1ffd74978b339850416128fee7bbced3db7c1b51f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" width="48" height="48" alt="Sass" data-canonical-src="https://skillicons.dev/icons?i=sass" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/875c6caef8bb68418d77f505e2a54728a6396bb825a56ebffcec0e8d0ca0fbc3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6772617068716c"><img src="https://camo.githubusercontent.com/875c6caef8bb68418d77f505e2a54728a6396bb825a56ebffcec0e8d0ca0fbc3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6772617068716c" width="48" height="48" alt="MySQL" data-canonical-src="https://skillicons.dev/icons?i=graphql" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5045ceef59e57d10080a7be92afe272464b1fb9f0c3c234fffa053de50daad9a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/5045ceef59e57d10080a7be92afe272464b1fb9f0c3c234fffa053de50daad9a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>PostgreSQL
-    </td>
- </tr>
+
 </tbody></table></markdown-accessiblity-table>
 <br><br>
 </div>
