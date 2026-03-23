@@ -1,7 +1,7 @@
 # 💻FullStack Web Developer & CyberSecurity Specialist🛡️
 
 
-<img src="https://github.com/codeurient/codeurient/blob/main/jjj.svg" width="100%"  style="display:block;"/>
+<img src="https://github.com/codeurient/codeurient/blob/main/cropped-jjj.svg" width="100%"  style="display:block;"/>
 
 <h1> ⚒️ About ⚒️ </h1>
 Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Specialist with experience in building secure web applications. Skilled in front-end technologies like JavaScript, React, and PHP, and back-end frameworks such as Python, I focus on creating efficient, user-friendly solutions while ensuring robust security practices to protect digital environments.
