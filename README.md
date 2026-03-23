@@ -116,7 +116,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>Nodejs
       </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="PHP" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/php.svg"><img src="https://github.com/codeurient/codeurient/blob/main/php.svg" width="48" height="48" alt="PHP" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/php.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>PHP
     </td>
             <td align="center" width="96">
@@ -128,20 +128,20 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Vue" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/vue.svg"><img src="https://github.com/codeurient/codeurient/blob/main/vue.svg" width="48" height="48" alt="Vue" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/vue.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Vue
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Sass" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/sass.svg"><img src="https://github.com/codeurient/codeurient/blob/main/sass.svg" width="48" height="48" alt="Sass" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/sass.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Sass
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="MySQL" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/graphql.svg"><img src="https://github.com/codeurient/codeurient/blob/main/graphql.svg" width="48" height="48" alt="GraphQL" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/graphql.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="PostgreSQL" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>PostgreSQL
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>ReactJ
     </td>
  </tr>
 </tbody></table></markdown-accessiblity-table>
