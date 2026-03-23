@@ -45,27 +45,27 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>C++
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/webpack.svg"><img src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/mysql.svg"><img src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/ts.svg"><img src="https://github.com/codeurient/codeurient/blob/main/ts.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/ts.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/aws.svg"><img src="https://github.com/codeurient/codeurient/blob/main/aws.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/aws.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>AWS
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%23.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>C#
     </td>
   </tr>
