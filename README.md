@@ -53,7 +53,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 ---
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 
 <p align="center"><a href="https://linkedin.com/in/codeurient" target="_blank"><img src="https://github.com/codeurient/codeurient/blob/main/instagram.png" alt="LinkedIn" /></a><a href="https://www.instagram.com/codeurient" target="_blank"><img src="https://github.com/codeurient/codeurient/blob/main/linkedn.png" alt="Instagram" /></a>
 </p>
