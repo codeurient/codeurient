@@ -31,50 +31,50 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/react.svg"><img src="https://github.com/codeurient/codeurient/blob/main/react.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/react.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>React
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/react.svg"><img src="https://github.com/codeurient/codeurient/blob/main/react.svg" alt="ReactJS" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/react.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="https://github.com/codeurient/codeurient/blob/main/python.svg">
-        <img src="https://github.com/codeurient/codeurient/blob/main/python.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/python.svg" style="max-width: 100%; height: auto; max-height: 65px;">
+        <img src="https://github.com/codeurient/codeurient/blob/main/python.svg" alt="Python" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/python.svg" style="max-width: 100%; height: auto; max-height: 65px;">
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/js.svg"><img src="https://github.com/codeurient/codeurient/blob/main/js.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/js.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/js.svg"><img src="https://github.com/codeurient/codeurient/blob/main/js.svg" alt="JavaScript" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/js.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" alt="C++" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%2B%2B.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>C++
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/webpack.svg"><img src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/webpack.svg"><img src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" alt="Webpack" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/webpack.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/mysql.svg"><img src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/mysql.svg"><img src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" alt="MySQL" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/mysql.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/ts.svg"><img src="https://github.com/codeurient/codeurient/blob/main/ts.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/ts.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/ts.svg"><img src="https://github.com/codeurient/codeurient/blob/main/ts.svg" alt="TypeScript" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/ts.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/aws.svg"><img src="https://github.com/codeurient/codeurient/blob/main/aws.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/aws.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/aws.svg"><img src="https://github.com/codeurient/codeurient/blob/main/aws.svg" alt="AWS" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/aws.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>AWS
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%23.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/c%23.svg"><img src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" alt="C#" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/c%23.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>C#
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/dj.svg"><img src="https://github.com/codeurient/codeurient/blob/main/dj.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/dj.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/dj.svg"><img src="https://github.com/codeurient/codeurient/blob/main/dj.svg" alt="Django" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/dj.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Django
     </td><td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/github.svg"><img src="https://github.com/codeurient/codeurient/blob/main/github.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/github.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/github.svg"><img src="https://github.com/codeurient/codeurient/blob/main/github.svg" alt="Github" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/github.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -108,12 +108,12 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
   </tr>
  <tr>
       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" width="48" height="48" alt="MongoDB" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" width="48" height="48" alt="PostgreSql" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>PostgreSql
     </td>
         <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Nodejs" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Nodejs
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/ironclad-security-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/ironclad-security-svgrepo-com.svg" width="48" height="48" alt="cyber" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/ironclad-security-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Cyber
       </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/php.svg"><img src="https://github.com/codeurient/codeurient/blob/main/php.svg" width="48" height="48" alt="PHP" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/php.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
@@ -124,8 +124,8 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="WordPress" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>WordPress
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg" width="48" height="48" alt="WordPress" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>NextJS
     </td>
               <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/vue.svg"><img src="https://github.com/codeurient/codeurient/blob/main/vue.svg" width="48" height="48" alt="Vue" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/vue.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
@@ -141,7 +141,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
     </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/react-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>ReactJ
+      <br>ReactJS
     </td>
  </tr>
 </tbody></table></markdown-accessiblity-table>
