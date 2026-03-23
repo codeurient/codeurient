@@ -120,12 +120,12 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
       <br>PHP
     </td>
             <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="VsCode" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>VsCode
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/arduino-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/arduino-svgrepo-com.svg" width="48" height="48" alt="arduino" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/arduino-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Arduino
     </td>
               <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg" width="48" height="48" alt="WordPress" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/nextjs-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>NextJS
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/docker-logo-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/docker-logo-svgrepo-com.svg" width="48" height="48" alt="docker" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/docker-logo-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Docker
     </td>
               <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/vue.svg"><img src="https://github.com/codeurient/codeurient/blob/main/vue.svg" width="48" height="48" alt="Vue" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/vue.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
