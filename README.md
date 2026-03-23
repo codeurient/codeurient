@@ -65,7 +65,9 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
 
 ---
 
-https://github.com/codeurient/codeurient/blob/main/soxulcan.svg
+
+
+<img src="https://github.com/codeurient/codeurient/blob/main/soxulcan.svg" alt="e" style="max-width: 100%;">
 
 ---
 
