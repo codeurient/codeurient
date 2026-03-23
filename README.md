@@ -25,6 +25,115 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
   <a href="https://www.instagram.com/codeurient/"><img width="152" src="https://github.com/codeurient/codeurient/blob/main/i.png" alt="Microsoft Office" ></a> 
 
 
+
+<div dir="auto">
+<markdown-accessiblity-table data-catalyst=""><table align="center">
+  <tbody><tr>
+    <td align="center" width="96">
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <br>Django
+    </td><td align="center" width="96">
+      <br>Github
+    </td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Git
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/814777033685fa9581452c78e30cc26873f1678d030b6268f905b55f0f578573/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="48" height="48" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="48" height="48" alt="HTML5" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>CSS
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="48" height="48" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/95b7647104525fdd09b73628aab20c8c04be6b170d7bae5a374f8ac24afe08a2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="48" height="48" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/608c025b43f2c7fc5586e58ebf5d37401734b5d7877e3e0fb828d3229559919d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="48" height="48" alt="jQuery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96"><img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="48" height="48" alt="MongoDB" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>MongoDB
+    </td>
+        <td align="center" width="96"><img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="48" height="48" alt="Nodejs" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Nodejs
+      </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/ec590ed3b18e79686dd269ba4b3f7788e485e07a08347b85620f8d5ef2e371a1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="48" height="48" alt="PHP" data-canonical-src="https://skillicons.dev/icons?i=php" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>PHP
+    </td>
+            <td align="center" width="96"><img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="48" height="48" alt="VsCode" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>VsCode
+    </td>
+              <td align="center" width="96"><img src="https://camo.githubusercontent.com/b6d5ccf0f9488cdeec915fcb6e98e8678afc712970c50994f986b63788bfe72c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" width="48" height="48" alt="WordPress" data-canonical-src="https://skillicons.dev/icons?i=wordpress" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>WordPress
+    </td>
+              <td align="center" width="96"><img src="https://camo.githubusercontent.com/7e5af4a62217d9e22da2ff2d94c0aeacfee22c51c693c26a2d960524c2e1d4f0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="48" height="48" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Vue
+    </td>
+              <td align="center" width="96"><img src="https://camo.githubusercontent.com/8dbc5c279a2a9971bee85c1ffd74978b339850416128fee7bbced3db7c1b51f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" width="48" height="48" alt="Sass" data-canonical-src="https://skillicons.dev/icons?i=sass" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>Sass
+    </td>
+              <td align="center" width="96"><img src="https://camo.githubusercontent.com/875c6caef8bb68418d77f505e2a54728a6396bb825a56ebffcec0e8d0ca0fbc3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6772617068716c" width="48" height="48" alt="MySQL" data-canonical-src="https://skillicons.dev/icons?i=graphql" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96"><img src="https://camo.githubusercontent.com/5045ceef59e57d10080a7be92afe272464b1fb9f0c3c234fffa053de50daad9a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>PostgreSQL
+    </td>
+ </tr>
+</tbody></table></markdown-accessiblity-table>
+<br><br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2> ⚒️ My Additional Skills ⚒️ </h2>
 
 <p align="center">
@@ -45,89 +154,7 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
     <img src="https://img.shields.io/badge/linux-red?style=flat-square&color=a84a51" alt="linux">
 </p>
 
-<div dir="auto">
-<markdown-accessiblity-table data-catalyst=""><table align="center">
-  <tbody><tr>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c57992ccd8e44fbfa43178e6de1ec1d0974559148afeb3044100e6fc9142311c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/c57992ccd8e44fbfa43178e6de1ec1d0974559148afeb3044100e6fc9142311c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c3873b6812ecfb1d2bc6ece8c2c548d53d151c2edbf6b0281207672ca3ab0a8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5c3873b6812ecfb1d2bc6ece8c2c548d53d151c2edbf6b0281207672ca3ab0a8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd75d21504d085f26ff74430df94f208f23beb055880df2bd5faa1219e87d6d8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd75d21504d085f26ff74430df94f208f23beb055880df2bd5faa1219e87d6d8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>Django
-    </td><td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/814777033685fa9581452c78e30cc26873f1678d030b6268f905b55f0f578573/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c"><img src="https://camo.githubusercontent.com/814777033685fa9581452c78e30cc26873f1678d030b6268f905b55f0f578573/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="48" height="48" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="48" height="48" alt="HTML5" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="48" height="48" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/95b7647104525fdd09b73628aab20c8c04be6b170d7bae5a374f8ac24afe08a2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://camo.githubusercontent.com/95b7647104525fdd09b73628aab20c8c04be6b170d7bae5a374f8ac24afe08a2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="48" height="48" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/608c025b43f2c7fc5586e58ebf5d37401734b5d7877e3e0fb828d3229559919d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/608c025b43f2c7fc5586e58ebf5d37401734b5d7877e3e0fb828d3229559919d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="48" height="48" alt="jQuery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>jQuery
-    </td>
-  </tr>
 
-</tbody></table></markdown-accessiblity-table>
-<br><br>
-</div>
 
 
 
