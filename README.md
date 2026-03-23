@@ -71,45 +71,45 @@ Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Speciali
   </tr>
   <tr>
   <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/dj.svg"><img src="https://github.com/codeurient/codeurient/blob/main/dj.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/dj.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Django
     </td><td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="icon" width="65" height="65" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 65px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/github.svg"><img src="https://github.com/codeurient/codeurient/blob/main/github.svg" alt="icon" width="65" height="65" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/github.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Git" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/git.png"><img src="https://github.com/codeurient/codeurient/blob/main/git.png" width="48" height="48" alt="Git" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Git
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Laravel" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/laravel.svg"><img src="https://github.com/codeurient/codeurient/blob/main/laravel.svg" width="48" height="48" alt="Laravel" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/laravel.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Laravel
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="HTML5" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/html5.svg"><img src="https://github.com/codeurient/codeurient/blob/main/html5.svg" width="48" height="48" alt="HTML5" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/html5.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="css" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/css3.svg"><img src="https://github.com/codeurient/codeurient/blob/main/css3.svg" width="48" height="48" alt="css" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/css3.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>CSS
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="bootstrap" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/bootstrap.svg"><img src="https://github.com/codeurient/codeurient/blob/main/bootstrap.svg" width="48" height="48" alt="bootstrap" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/bootstrap.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="tailwind" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/tailwind.svg"><img src="https://github.com/codeurient/codeurient/blob/main/tailwind.svg" width="48" height="48" alt="tailwind" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/tailwind.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="jQuery" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/jquery.svg"><img src="https://github.com/codeurient/codeurient/blob/main/jquery.svg" width="48" height="48" alt="jQuery" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/jquery.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>jQuery
     </td>
   </tr>
  <tr>
       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="MongoDB" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>MongoDB
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg"><img src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" width="48" height="48" alt="MongoDB" data-canonical-src="https://github.com/codeurient/codeurient/blob/main/postgresql-logo-svgrepo-com.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <br>PostgreSql
     </td>
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" width="48" height="48" alt="Nodejs" data-canonical-src="" style="max-width: 100%; height: auto; max-height: 48px;"></a>
